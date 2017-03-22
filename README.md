@@ -22,4 +22,4 @@ In this repository, all necessary files are in place for building the OpenType/C
 
 ## Getting Involved
 
-Send suggestions for changes to the Adobe NotDef project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Adobe NotDef), for consideration.
+Send suggestions for changes to the Adobe NotDef project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Adobe%20NotDef), for consideration.
