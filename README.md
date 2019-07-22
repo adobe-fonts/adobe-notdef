@@ -4,21 +4,17 @@
 
 Adobe NotDef maps 1,111,998 Unicode code points to 2,048 *.notdef* glyphs (CIDs 1 through 2048). The 2,048 High and Low Surrogates (U+D800 through U+DFFF), the two noncharacters in the BMP and in each of the 16 Supplementary Planes (FFFE and FFFF), and the 32 noncharacters in the range U+FDD0 through U+FDEF are explicitly and intentionally excluded. As a fully-functional OpenType font, the following 10 'sfnt' tables are included: CFF, DSIG, OS/2, cmap, head, hhea, hmtx, maxp, name, and post.
 
-## Font installation instructions
-
-* [macOS](https://support.apple.com/en-us/HT201749)
-* [Windows](https://www.microsoft.com/en-us/Typography/TrueTypeInstall.aspx)
-* [Linux/Unix-based systems](https://github.com/adobe-fonts/source-code-pro/issues/17#issuecomment-8967116)
+In addition to a functional OpenType/CFF font, a TrueType (TTF) version is included.
 
 ## Building the fonts from source
 
 ### Requirements
 
-To build the binary font files from source, you need to have installed the [Adobe Font Development Kit for OpenType](http://www.adobe.com/devnet/opentype/afdko.html) (AFDKO). The AFDKO tools are widely used for font development today, and are part of most font editor applications.
+To build the binary font files from source, you need to have installed the [Adobe Font Development Kit for OpenType](https://github.com/adobe-type-tools/afdko/) (AFDKO). The AFDKO tools are widely used for font development today, and are part of most font editor applications.
 
 ### Building the font
 
-In this repository, all necessary files are in place for building the OpenType/CFF fonts, and the [COMMANDS.txt](COMMANDS.txt) file provides the command lines that are used.
+In this repository, all necessary files are in place for building the OpenType/CFF font, and the [COMMANDS.txt](COMMANDS.txt) file provides the command lines that are used.
 
 ## Getting Involved
 
