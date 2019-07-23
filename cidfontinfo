@@ -2,11 +2,11 @@ FontName                   (AND-Regular)
 FullName                   (Adobe NotDef)
 FamilyName                 (Adobe NotDef)
 Weight                     (Regular)
-version                    (1.000)
+version                    (1.001)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
-AdobeCopyright             (Copyright 2016 Adobe Systems Incorporated (http://www.adobe.com/).)
+AdobeCopyright             (Copyright 2016-2019 Adobe (http://www.adobe.com/).)
 Trademark                  ()
 FSType                     0
 isFixedPitch               true

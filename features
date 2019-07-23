@@ -1,12 +1,12 @@
 languagesystem DFLT dflt;
 
 table head {
-  FontRevision 1.000;
+  FontRevision 1.001;
 } head;
 
 table name {
-  nameid 0 "Copyright \00a9 2016 Adobe Systems Incorporated (http://www.adobe.com/).";
-  nameid 8 "Adobe Systems Incorporated";
+  nameid 0 "\00a9 2016-2019 Adobe (http://www.adobe.com/).";
+  nameid 8 "Adobe";
   nameid 11 "http://www.adobe.com/type/";
   nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \0022AS IS\0022 BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
   nameid 14 "http://scripts.sil.org/OFL";

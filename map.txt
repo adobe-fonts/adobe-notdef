@@ -1,4 +1,4 @@
-mergeFonts AND-Regular-Generic 1
+mergefonts AND-Regular-Generic 1
 0	NOTDEF
 1	NOTDEF
 2	NOTDEF
