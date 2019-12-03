@@ -18,4 +18,5 @@ In this repository, all necessary files are in place for building the CID-keyed 
 
 ## Getting Involved
 
-Send suggestions for changes to the Adobe NotDef project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Adobe%20NotDef), for consideration.
+For any suggestions for changes, please [create a new issue](https://github.com/adobe-fonts/adobe-notdef/issues) for consideration.
+
